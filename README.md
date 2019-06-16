@@ -71,7 +71,7 @@ mechanics-of-migrations-v-000/
   artist.rb
   CONTRIBUTING.md
   Gemfile
-  Gemfile.lock
+  Gemfile.lock  
   LICENSE.md
   Rakefile
   README.md
